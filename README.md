@@ -1,6 +1,6 @@
 # DSPy.rb Claude Skill
 
-[![DSPy.rb](https://img.shields.io/badge/DSPy.rb-v0.33.0-red)](https://github.com/vicentereig/dspy.rb)
+[![DSPy.rb](https://img.shields.io/badge/DSPy.rb-v0.34.0-red)](https://github.com/vicentereig/dspy.rb)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet)](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills)
 
 A [Claude Skill](https://support.claude.com/en/articles/12512180-using-skills-in-claude) that helps you build type-safe LLM applications using [DSPy.rb](https://github.com/vicentereig/dspy.rb).
@@ -12,6 +12,8 @@ When activated, Claude gains deep knowledge of DSPy.rb to help you:
 - **Define type-safe signatures** with Sorbet types (enums, structs, arrays)
 - **Build composable modules** for complex LLM workflows
 - **Create ReAct and CodeAct agents** with tool calling
+- **Use recursive types** with proper `$defs` JSON Schema format
+- **Add field descriptions** to T::Struct for better LLM understanding
 - **Implement optimization** using MIPROv2 and GEPA
 - **Test and evaluate** LLM applications with RSpec and VCR
 - **Deploy to production** with observability and error handling
