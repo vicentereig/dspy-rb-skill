@@ -1,6 +1,6 @@
 # DSPy.rb Claude Skill
 
-[![DSPy.rb](https://img.shields.io/badge/DSPy.rb-v0.34.0-red)](https://github.com/vicentereig/dspy.rb)
+[![DSPy.rb](https://img.shields.io/badge/DSPy.rb-v0.34.1-red)](https://github.com/vicentereig/dspy.rb)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet)](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills)
 
 A [Claude Skill](https://support.claude.com/en/articles/12512180-using-skills-in-claude) that helps you build type-safe LLM applications using [DSPy.rb](https://github.com/vicentereig/dspy.rb).

@@ -1424,4 +1424,4 @@ end
 
 ---
 
-Generated for DSPy.rb v0.34.0
+Generated for DSPy.rb v0.34.1

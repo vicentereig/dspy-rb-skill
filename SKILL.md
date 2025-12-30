@@ -344,4 +344,4 @@ For complete API reference, advanced patterns, and integration guides, see [REFE
 
 ## Version
 
-Current: 0.34.0
+Current: 0.34.1
